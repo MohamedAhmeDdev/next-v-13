@@ -34,3 +34,5 @@ const Navbar = () => {
 }
 
 export default Navbar
+
+//we are using classnames if we want to check and display the className were its need to

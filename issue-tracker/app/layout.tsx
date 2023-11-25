@@ -31,3 +31,7 @@ export default function RootLayout({
     </html>
   )
 }
+
+
+// @radix-ui/themes we are using this to style the application
+// u must wrap the application with Theme so that it can work

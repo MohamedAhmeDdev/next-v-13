@@ -9,3 +9,6 @@ CREATE TABLE `Issue` (
 
     PRIMARY KEY (`id`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+
+-- this file was generated when u run  npx prisma migrate

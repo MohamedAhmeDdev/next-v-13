@@ -24,3 +24,6 @@ enum Status {
   IN_PROGRESS
   CLOSED
 }
+
+//this file was created when i run npx npx prisma init
+//in this file u are using the model the add your table attributes that u need

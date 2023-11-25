@@ -15,3 +15,6 @@ const prisma = globalForPrisma.prisma ?? prismaClientSingleton()
 export default prisma
 
 if (process.env.NODE_ENV !== 'production') globalForPrisma.prisma = prisma
+
+
+//u create the client file for prisma to run in your application

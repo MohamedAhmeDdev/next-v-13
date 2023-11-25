@@ -15,3 +15,6 @@ export async function POST(request: NextRequest){
 
     return NextResponse.json(newIssue, { status: 201 });
 }
+
+//this a function for posting issues in the database
+//prisma is used to insert / create 
